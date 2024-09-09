@@ -91,7 +91,7 @@ export const DATA = {
   projects: [
     {
       title: "Dine Market",
-      href: "https://dine-market-kappa.vercel.app/",     
+      href: "https://github.com/HamzaAhmedSheikh/Full-Stack-Next.js-Hackathon-One",     
       active: true,
       description:
         "An e-commerce store using Next.js, Tailwind CSS, Shadcn UI, Sanity CMS, and Clerk, with Stripe for payments and Clerk for authentication. It offers a robust, user-friendly, and secure online shopping experience",
